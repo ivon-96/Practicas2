@@ -1,0 +1,41 @@
+/*Fondo de la pagina*/
+body
+{
+background:#E8F8F5;
+}
+
+/*color del menu accesorios, descripcion y precios*/
+.menu
+{
+color:#443E2D; 
+}
+
+h1
+{
+color:#443E2D; 
+}
+
+
+h1
+{
+background:#443E2D;  /*Color de fondo del titulo*/
+list-style:none;   /*Estilo de lista ninguna*/
+margin:5px;   /*Margen externo*/
+padding:10px;  /*Margen interno*/
+color:#FABE03;  /*Color del titulo de la pagina*/ 
+}
+
+h3
+{
+color:#1310EF;
+}
+
+/*Color cuando un usuario interactua con el elemento*/
+td:hover
+{
+background:#FAE5D3; 
+color:#1310EF;
+}*/
+
+
+#FF69B4;

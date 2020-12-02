@@ -1,0 +1,36 @@
+/*Fondo de la pagina*/
+body
+{
+background:#E8F8F5;
+}
+
+/*color de Titulo de la pagina */
+h1 
+{
+color:#FF69B4; 
+}
+
+/*Color, fondo para mis botones */
+.boton
+{
+    text-decoration: none;
+    padding: 3px; /*relleno*/
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300; /*fuente*/
+    font-size: 25px;
+    font-style: italic; /*estilo de fuente: cursiva*/
+    color: #006505;
+    background-color:#F5B7B1; /*color de fondo*/
+    border-radius: 15px; /*Radio de borde*/
+    border: 3px double #17202A ; /*borde*/
+  }
+
+.boton:hover
+{
+opacity: 0.6;
+text-decoration: none;
+background:#3109D0;
+color:#DDEAEA;
+}

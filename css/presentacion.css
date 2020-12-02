@@ -1,0 +1,67 @@
+ul
+{
+list-style-type:circle; /*cirulo sin relleno*//*square;*/
+}
+
+/*Darle presentacion a las listas*/
+.menu
+{
+background:#3BE7CA ; /*Color de fondo a la lista*/
+list-style:none;   /*Estilo de lista ninguna*/
+margin:5px;   /*Margen externo*/
+padding:10px;  /*Margen interno*/
+}
+
+.menu li
+{
+display:inline-block;
+}
+
+.menu li a
+{
+padding:10px 20px; /*Margen interno*/
+display:inline-block;
+color:#171C1B  ;
+}
+
+
+
+
+.menu li a:hover
+{
+background:#6C7F8C; 
+color:#48F4E7;
+}*/
+ 
+
+body
+{
+margin:5px;
+}
+
+/*Titulo de la pagina*/
+h1
+{
+color:#C07AD8 ; 
+}
+
+h2
+{
+color:#D471E0:
+}
+
+/*Diseño de pie de pagina*/
+{
+background:#000;
+color:#fff;
+clear:both; /*limpia los float*/
+padding:10 px 0px;
+text-align:center;
+}
+
+
+
+
+
+
+
